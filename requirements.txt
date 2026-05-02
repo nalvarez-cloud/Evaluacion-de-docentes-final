@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+joblib
+pysentimiento
+transformers
+torch
+google-generativeai
